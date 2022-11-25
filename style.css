@@ -1,0 +1,13 @@
+p{
+  font-family:'dancing script', Courier, monospace;
+  font-size: larger;
+  font-weight: 600;
+  line-height: 1,5;
+}
+h1{
+  font-family: dancing script;
+  text-align: center;
+  text-decoration: underline;
+  margin-left: 15px;
+  margin-bottom: 100px;
+}
